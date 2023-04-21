@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sichao-Yang
 - 👀 I’m interested in Machine learning, NLP and Graph learning
 - 🌱 I’m currently learning reinforcement learning and DL system design
-- 💞️ I’m looking to collaborate on large scale Graph learning & NLP tasks
+- 💞️ I’m looking to collaboration on large scale Graph learning & NLP tasks
 - 📫 You can reach me via 13816901408@163.com
 
 <!---
