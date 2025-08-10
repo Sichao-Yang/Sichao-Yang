@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sichao-Yang
-- 👀 I’m interested in machine learning, NLP and graph learning
-- 🌱 I’m currently working on code generation applied in hardware verification
-- 💞️ I’m looking to collaboration on large-scale graph learning & NLP tasks
+- 👀 I’m interested in machine learning and formal verification
+- 🌱 I’m currently working on datapath verification for IC design
+- 💞️ I’m looking to collaboration on large-scale graph learning or SMT\SAT\MC solver design.
 - 📫 You can reach me via 13816901408@163.com
 
 <!---
